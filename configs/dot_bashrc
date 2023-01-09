@@ -113,7 +113,7 @@ export GOPATH=/home/jose/go
 export GOROOT=/usr/local/go
 
 # scala
-export PATH=$PATH:/usr/local/scala/bin
+# export PATH=$PATH:/usr/local/scala/bin
 
 # Julia
 export PATH=$PATH:/usr/local/julia/bin
